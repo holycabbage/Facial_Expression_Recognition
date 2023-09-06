@@ -1,0 +1,3 @@
+Data is FER-2013
+
+Refference: https://www.kaggle.com/datasets/msambare/fer2013
