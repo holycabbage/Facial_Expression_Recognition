@@ -20,7 +20,9 @@ Dropout Layer with a rate of 0.5
 Dense Layer with 7 units and Softmax activation
 
 ## Expmple
+![Uploading Screen Shot 2023-09-07 at 01.00.17.png…]()
 
+<img width="1440" alt="Screen Shot 2023-09-07 at 01 01 59" src="https://github.com/holycabbage/Facial_Expression_Recognition/assets/90731193/95e54c40-9501-493f-a80d-8396ffa9e101">
 
 ## References
 Emotion-recognition: https://github.com/omar-aymen/Emotion-recognition/tree/master
